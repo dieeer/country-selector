@@ -1,0 +1,7 @@
+#country-selector, #country-option {
+    width: 50%;
+    height: auto;
+    border-radius: 4px;
+    font-size:3rem;
+    text-align: center;
+}
